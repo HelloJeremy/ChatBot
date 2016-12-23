@@ -1,3 +1,3 @@
 # ChatBot
-a  andriod app ,namely chatbot 
-My first andriod application, It is called ChatBot.It is developed by andriod studio.
+a  Android app ,namely chatbot 
+My first Android application, It is called ChatBot.It is developed by Android studio.
